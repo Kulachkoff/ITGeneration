@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76cd85aa-6e11-43a7-bd6e-2e5766027cc7" name="Changes" comment="Final Version">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/com/sourceit/tasks/task1/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/com/sourceit/tasks/task1/SubTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/com/sourceit/tasks/task1/SubTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/com/sourceit/tasks/task1/SubTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/com/sourceit/tasks/task1/SubTask4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/com/sourceit/tasks/task1/SubTask5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/com/sourceit/tasks/task1/SubTask6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CelsiusToFahrenheitHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/com/sourceit/homeworks/homework1/CelsiusToFahrenheitHomework.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,19 +41,34 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Demo">
     <configuration name="CelsiusToFahrenheitHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CelsiusToFahrenheitHomework" />
+      <option name="MAIN_CLASS_NAME" value="ua.com.sourceit.homeworks.homework1.CelsiusToFahrenheitHomework" />
       <module name="ITGeneration" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.com.sourceit.tasks.task1.Demo" />
+      <module name="ITGeneration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.com.sourceit.tasks.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.CelsiusToFahrenheitHomework" />
       </list>
     </recent_temporary>
@@ -73,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667505763842</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Final Version">
+      <created>1667506330609</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667506330609</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,5 +120,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Final Version" />
     <option name="LAST_COMMIT_MESSAGE" value="Final Version" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ua/com/sourceit/tasks/task1/SubTask5.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

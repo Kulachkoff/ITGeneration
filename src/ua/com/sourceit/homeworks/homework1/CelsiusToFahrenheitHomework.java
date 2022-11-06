@@ -1,3 +1,5 @@
+package ua.com.sourceit.homeworks.homework1;
+
 import java.util.Scanner;
 
 public class CelsiusToFahrenheitHomework {
