@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76cd85aa-6e11-43a7-bd6e-2e5766027cc7" name="Changes" comment="Task1 Done">
+      <change afterPath="$PROJECT_DIR$/src/ua/com/sourceit/kravchenko/tasks/task2/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/com/sourceit/kravchenko/tasks/task2/SubTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/com/sourceit/kravchenko/tasks/task2/SubTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/com/sourceit/kravchenko/tasks/task2/SubTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/com/sourceit/kravchenko/tasks/task2/SubTask4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/com/sourceit/homeworks/homework1/CelsiusToFahrenheitHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/com/sourceit/kravchenko/homeworks/homework1/CelsiusToFahrenheitHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/com/sourceit/tasks/task1/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/com/sourceit/kravchenko/tasks/task1/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/com/sourceit/tasks/task1/SubTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/com/sourceit/kravchenko/tasks/task1/SubTask1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/com/sourceit/tasks/task1/SubTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/com/sourceit/kravchenko/tasks/task1/SubTask2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/com/sourceit/tasks/task1/SubTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/com/sourceit/kravchenko/tasks/task1/SubTask3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/com/sourceit/tasks/task1/SubTask4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/com/sourceit/kravchenko/tasks/task1/SubTask4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/com/sourceit/tasks/task1/SubTask5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/com/sourceit/kravchenko/tasks/task1/SubTask5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/com/sourceit/tasks/task1/SubTask6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/com/sourceit/kravchenko/tasks/task1/SubTask6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +40,6 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
@@ -39,7 +51,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Coding Stuff/Projects/Java/ITGeneration&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.ua.com.sourceit.kravchenko.tasks.task2.Demo">
     <configuration name="CelsiusToFahrenheitHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.com.sourceit.homeworks.homework1.CelsiusToFahrenheitHomework" />
       <module name="ITGeneration" />
@@ -60,8 +72,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ua.com.sourceit.kravchenko.homeworks.homework1.CelsiusToFahrenheitHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.com.sourceit.kravchenko.homeworks.homework1.CelsiusToFahrenheitHomework" />
+      <module name="ITGeneration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.com.sourceit.kravchenko.homeworks.homework1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ua.com.sourceit.kravchenko.tasks.task1.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.com.sourceit.kravchenko.tasks.task1.Demo" />
+      <module name="ITGeneration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.com.sourceit.kravchenko.tasks.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ua.com.sourceit.kravchenko.tasks.task2.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.com.sourceit.kravchenko.tasks.task2.Demo" />
+      <module name="ITGeneration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.com.sourceit.kravchenko.tasks.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ua.com.sourceit.kravchenko.tasks.task2.Demo" />
+        <item itemvalue="Application.ua.com.sourceit.kravchenko.tasks.task1.Demo" />
+        <item itemvalue="Application.ua.com.sourceit.kravchenko.homeworks.homework1.CelsiusToFahrenheitHomework" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.CelsiusToFahrenheitHomework" />
       </list>
@@ -77,6 +131,8 @@
       <updated>1667504352867</updated>
       <workItem from="1668713004627" duration="1746000" />
       <workItem from="1668718244573" duration="2271000" />
+      <workItem from="1669706284987" duration="258000" />
+      <workItem from="1669741500762" duration="5877000" />
     </task>
     <task id="LOCAL-00001" summary="Final Version">
       <created>1667505662299</created>
@@ -106,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668719915074</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Task1 Done">
+      <created>1669706525485</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669706525485</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,5 +190,16 @@
     <MESSAGE value="Final Version" />
     <MESSAGE value="Task1 Done" />
     <option name="LAST_COMMIT_MESSAGE" value="Task1 Done" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ua/com/sourceit/kravchenko/tasks/task2/SubTask2.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

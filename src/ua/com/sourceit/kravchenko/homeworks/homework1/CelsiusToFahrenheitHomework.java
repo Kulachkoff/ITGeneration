@@ -1,4 +1,4 @@
-package ua.com.sourceit.homeworks.homework1;
+package ua.com.sourceit.kravchenko.homeworks.homework1;
 
 import java.util.Scanner;
 

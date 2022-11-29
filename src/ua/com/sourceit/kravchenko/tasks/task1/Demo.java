@@ -1,4 +1,4 @@
-package ua.com.sourceit.tasks.task1;
+package ua.com.sourceit.kravchenko.tasks.task1;
 
 public class Demo {
     public static void main(String[] args) {
