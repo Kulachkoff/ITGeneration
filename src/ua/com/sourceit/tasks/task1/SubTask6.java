@@ -5,7 +5,7 @@ public class SubTask6 {
         int columnNumber = 0;
         for(int i = 0; i < columnNotation.length(); i++) {
             columnNumber *= 26;
-            columnNumber += columnNotation.charAt(i) - 'A' + 1;
+            columnNumber += columnNotation.toUpperCase().charAt(i) - 'A' + 1;
         }
         return columnNumber;
     }

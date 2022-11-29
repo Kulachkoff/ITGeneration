@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76cd85aa-6e11-43a7-bd6e-2e5766027cc7" name="Changes" comment="Final Version">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="76cd85aa-6e11-43a7-bd6e-2e5766027cc7" name="Changes" comment="Task1 Done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/com/sourceit/tasks/task1/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/com/sourceit/tasks/task1/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/com/sourceit/tasks/task1/SubTask5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/com/sourceit/tasks/task1/SubTask5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/com/sourceit/tasks/task1/SubTask6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/com/sourceit/tasks/task1/SubTask6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667504352867</updated>
       <workItem from="1668713004627" duration="1746000" />
-      <workItem from="1668718244573" duration="1426000" />
+      <workItem from="1668718244573" duration="2271000" />
     </task>
     <task id="LOCAL-00001" summary="Final Version">
       <created>1667505662299</created>
@@ -103,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667506330609</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Task1 Done">
+      <created>1668719915074</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668719915074</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Final Version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final Version" />
+    <MESSAGE value="Task1 Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task1 Done" />
   </component>
 </project>

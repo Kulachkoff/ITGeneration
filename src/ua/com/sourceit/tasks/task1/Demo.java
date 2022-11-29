@@ -13,8 +13,8 @@ public class Demo {
         //SubTask5
         SubTask5.allPrimeNumbers();
         //SubTask6
-        System.out.println(SubTask6.getColumnNumber("AZC"));
-        System.out.println(SubTask6.getColumnNotation(1355));
+        System.out.println(SubTask6.getColumnNumber("abc"));
+        System.out.println(SubTask6.getColumnNotation(703));
         System.out.println(SubTask6.getNext("AZC"));
     }
 }
